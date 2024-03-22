@@ -10,7 +10,7 @@ import json
 
 
 # Example sheet_relations_col (replace with your actual data)
-data_path = 'Bundle\SheetRelationCol.json'
+data_path = 'SheetRelationCol.json'
 
 with open(data_path, 'r') as file:
     sheet_relations_col = json.load(file)
