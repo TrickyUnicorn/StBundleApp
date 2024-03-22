@@ -1,0 +1,142 @@
+{
+    "2023 MASTER SHEET": {
+        "B": [
+            "Sprawdzenie"
+        ],
+        "C": [
+            "Score2023"
+        ],
+        "D": [
+            "Mapping2023"
+        ],
+        "G": [
+            "Sprawdzenie"
+        ],
+        "H": [
+            "Mapping2023"
+        ],
+        "I": [
+            "RevenueL9M"
+        ],
+        "L": [
+            "Rentowno\u015b\u01072023"
+        ]
+    },
+    "Cenniki merchant\u00f3w 2023": {
+        "H": [
+            "Mapping pozycji"
+        ],
+        "K": [
+            "Mapping2023"
+        ],
+        "L": [
+            "Mapping pozycji"
+        ],
+        "M": [
+            "Mapping pozycji"
+        ],
+        "P": [
+            "Mapping2023"
+        ],
+        "V": [
+            "Pozosta\u0142e pozycje merchant\u00f3w 2023"
+        ]
+    },
+    "Mapping pozycji": {},
+    "Mapping2023": {
+        "G": [
+            "Sprawdzenie"
+        ],
+        "J": [
+            "Sprawdzenie"
+        ],
+        "L": [
+            "Sprawdzenie"
+        ],
+        "CQ": [
+            "Sprawdzenie"
+        ]
+    },
+    "MASTER SHEET": {},
+    "Pozosta\u0142e pozycje merchant\u00f3w 2023": {
+        "L": [
+            "Mapping pozycji"
+        ],
+        "M": [
+            "Mapping pozycji"
+        ],
+        "T": [
+            "Cenniki merchant\u00f3w"
+        ]
+    },
+    "Rentowno\u015b\u01072023": {},
+    "Rentowno\u015b\u0107PerKurier2023": {},
+    "Szablon wyliczenia PL": {
+        "A": [
+            "2023 MASTER SHEET"
+        ],
+        "B": [
+            "Mapping pozycji"
+        ],
+        "C": [
+            "Mapping pozycji"
+        ],
+        "E": [
+            "Mapping2023"
+        ],
+        "F": [
+            "Mapping",
+            "Wyliczenia kurier\u00f3w 2023",
+            "Cenniki merchant\u00f3w 2023",
+            "Pozosta\u0142e pozycje merchant\u00f3w 2023"
+        ],
+        "K": [
+            "Rentowno\u015b\u01072023",
+            "Mapping2023",
+            "MASTER SHEET"
+        ],
+        "L": [
+            "Mar\u017ca kurier2024",
+            "Rentowno\u015b\u01072023",
+            "Mapping2023"
+        ],
+        "N": [
+            "Rentowno\u015b\u01072023",
+            "Rentowno\u015b\u0107PerKurier2023"
+        ],
+        "O": [
+            "Rentowno\u015b\u01072023"
+        ],
+        "P": [
+            "Mapping",
+            "Wyliczenia kurier\u00f3w 2023",
+            "Cenniki merchant\u00f3w 2023"
+        ],
+        "AA": [
+            "RevenueL9M"
+        ],
+        "AD": [
+            "Pozycje do zmiany"
+        ]
+    },
+    "Wyliczenia kurier\u00f3w 2023": {
+        "L": [
+            "Mapping"
+        ],
+        "N": [
+            "Mar\u017ca kurier"
+        ],
+        "Q": [
+            "Mapping"
+        ],
+        "AF": [
+            "Mapping"
+        ],
+        "AH": [
+            "Mar\u017ca kurier"
+        ],
+        "AK": [
+            "Mapping"
+        ]
+    }
+}

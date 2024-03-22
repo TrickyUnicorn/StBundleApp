@@ -1,0 +1,138 @@
+[
+    {
+        "first_name": "Tom",
+        "last_name": "Harris",
+        "department": "IT",
+        "problem_name": "No energy supplied",
+        "score": 7,
+        "timestamp": "2024-03-21 19:17:08"
+    },
+    {
+        "first_name": "Romy",
+        "last_name": "Gnar",
+        "department": "Finance",
+        "problem_name": "Super Mario enter the room",
+        "score": 6,
+        "timestamp": "2024-03-21 19:17:15"
+    },
+    {
+        "first_name": "Samuel",
+        "last_name": "Ozimina",
+        "department": "IT",
+        "problem_name": "Przepisa\u0142 go na nowy szybszy silnik",
+        "score": 10,
+        "timestamp": "2024-03-21 19:24:42"
+    },
+    {
+        "first_name": "Samuel",
+        "last_name": "Ozimina",
+        "department": "IT",
+        "problem_name": "Stworzy\u0142 nowy prosty i wygodny interfejs",
+        "score": 7,
+        "timestamp": "2024-03-21 19:25:12"
+    },
+    {
+        "first_name": "Samuel",
+        "last_name": "Ozimina",
+        "department": "IT",
+        "problem_name": "Zniszy\u0142 arkusz",
+        "score": 1,
+        "timestamp": "2024-03-21 19:26:11"
+    },
+    {
+        "first_name": "Samuel",
+        "last_name": "Ozimina",
+        "department": "IT",
+        "problem_name": "Przezwa\u0142 kolumn\u0119",
+        "score": 5,
+        "timestamp": "2024-03-21 19:26:37"
+    },
+    {
+        "first_name": "Jej",
+        "last_name": "Sawanna",
+        "department": "Marketing",
+        "problem_name": "Ci\u0105gle mi si\u0119 wiesza",
+        "score": 5,
+        "timestamp": "2024-03-21 19:38:29"
+    },
+    {
+        "first_name": "Jej",
+        "last_name": "Sawanna",
+        "department": "Marketing",
+        "problem_name": "Ci\u0105gle nie mog\u0119 si\u0119 z tym podzieli\u0107 z kole\u017cank\u0105",
+        "score": 6,
+        "timestamp": "2024-03-21 19:38:46"
+    },
+    {
+        "first_name": "Jej",
+        "last_name": "Sawanna",
+        "department": "Marketing",
+        "problem_name": "Ostatnio zacz\u0119\u0142a mnie bole\u0107 z tego g\u0142owa",
+        "score": 9,
+        "timestamp": "2024-03-21 19:39:08"
+    },
+    {
+        "first_name": "Artur",
+        "last_name": "Ceram",
+        "department": "Logistics",
+        "problem_name": "Chica\u0142bym w niego umie\u0107 klikn\u0105\u0107",
+        "score": 8,
+        "timestamp": "2024-03-21 19:59:24"
+    },
+    {
+        "first_name": "Barbara",
+        "last_name": "Naczas",
+        "department": "Logistics",
+        "problem_name": "Czy to b\u0119dzie spe\u0142nia\u0107 swoj\u0105 rol\u0119?",
+        "score": 7,
+        "timestamp": "2024-03-21 20:00:06"
+    },
+    {
+        "first_name": "Robert",
+        "last_name": "Z\u0142oty",
+        "department": "Logistics",
+        "problem_name": "M\u00f3j komputer nie daje rady",
+        "score": 7,
+        "timestamp": "2024-03-21 20:00:33"
+    },
+    {
+        "first_name": "Aleksandra",
+        "last_name": "By\u0142a",
+        "department": "Logistics",
+        "problem_name": "Kto\u015b ci\u0105gle mi usuwa wiersze",
+        "score": 9,
+        "timestamp": "2024-03-21 20:00:57"
+    },
+    {
+        "first_name": "Artur",
+        "last_name": "Dzia\u0142aj",
+        "department": "Support",
+        "problem_name": "Jak dla mnie to kolor",
+        "score": 3,
+        "timestamp": "2024-03-22 14:23:05"
+    },
+    {
+        "first_name": "Adam",
+        "last_name": "Niebieski",
+        "department": "Leader",
+        "problem_name": "Chcia\u0142bym go cz\u0119\u015bciej u\u017cywa\u0107",
+        "score": 5,
+        "timestamp": "2024-03-22 14:24:03"
+    },
+    {
+        "first_name": "Adam",
+        "last_name": "Niebieski",
+        "department": "Leader",
+        "problem_name": "M\u00f3g\u0142by dzia\u0142a\u0107 offline",
+        "score": 7,
+        "timestamp": "2024-03-22 14:24:19"
+    },
+    {
+        "first_name": "Maciej",
+        "last_name": "Zgoda",
+        "department": "IT",
+        "problem_name": "Chcia\u0142bym aby m\u00f3j zesp\u00f3\u0142 m\u00f3g\u0142 si\u0119 tym zaj\u0105\u0107",
+        "score": 7,
+        "timestamp": "2024-03-22 14:25:13"
+    }
+]
