@@ -2,18 +2,15 @@ import streamlit as st
 import pandas as pd
 import json
 
-# Example users with roles
-users_with_roles = {
-    'admin': {'password': 'adminpass', 'role': 'admin'},
-    'user': {'password': 'userpass', 'role': 'user'}
-}
 
 # Simple login function
 def login(username, password):
-    user_info = users_with_roles.get(username, None)
-    if user_info and user_info['password'] == password:
+    admin_username = st.secrets["ADMIN_USERNAME"]
+    admin_password = st.secrets["ADMIN_PASSWORD"]
+
+    if username == admin_username and password == admin_password:
         st.session_state['username'] = username
-        st.session_state['role'] = user_info['role']
+        st.session_state['role'] = 'admin'  # Assuming admin role for simplicity
         return True
     return False
 
