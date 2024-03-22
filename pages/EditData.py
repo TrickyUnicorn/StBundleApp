@@ -2,18 +2,18 @@ import streamlit as st
 import json
 import Login
 
-def load_feedback(filename='Bundle/feedback.json'):
+def load_feedback(filename='feedback.json'):
     try:
         with open(filename, 'r') as file:
             return json.load(file)
     except FileNotFoundError:
         return []
 
-def save_feedback(data, filename='Bundle/feedback.json'):
+def save_feedback(data, filename='feedback.json'):
     with open(filename, 'w') as file:
         json.dump(data, file, indent=4)
 
-def delete_feedback(feedback_data, delete_index, filename='Bundle/feedback.json'):
+def delete_feedback(feedback_data, delete_index, filename='feedback.json'):
     # Remove the entry at the specified index
     del feedback_data[delete_index]
     # Save the updated list back to the JSON file
