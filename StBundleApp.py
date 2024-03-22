@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 
 
-def load_feedback(filename=r'Bundle\feedback.json'):
+def load_feedback(filename=r'feedback.json'):
     """Load feedback data from a JSON file."""
     try:
         with open(filename, 'r') as file:
