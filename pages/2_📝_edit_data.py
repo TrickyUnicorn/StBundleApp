@@ -2,6 +2,11 @@ import streamlit as st
 import json
 import Login
 
+st.set_page_config(
+    page_title="edit", #name in browser tab
+    page_icon="📝",
+)
+
 def load_feedback(filename='feedback.json'):
     try:
         with open(filename, 'r') as file:

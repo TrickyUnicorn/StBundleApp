@@ -6,7 +6,10 @@ import matplotlib.pyplot as plt
 import json
 
 
-
+st.set_page_config(
+    page_title="sheets", #name in browser tab
+    page_icon="📑",
+)
 
 
 # Example sheet_relations_col (replace with your actual data)
