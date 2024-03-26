@@ -9,4 +9,10 @@ plotly==5.20.0
 pyzmq==25.1.1
 streamlit==1.32.2
 networkx==3.2.1
-st-gsheets-connection
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+gspread==5.12.4
+gspread-dataframe==3.3.1
+gspread-formatting==1.1.2
+gspread-pandas==3.3.0
+st-gsheets-connection==0.0.4
