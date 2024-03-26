@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import json
 from datetime import datetime
+import DataLoaders
 
 st.set_page_config(
     page_title="edit", #name in browser tab
@@ -9,22 +10,6 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-# Function to save data to JSON
-def save_data_json(data, filename=r'Bundle\feedback.json'):
-    try:
-        with open(filename, 'r+') as file:
-            # First we load existing data into a dict.
-            file_data = json.load(file)
-            # Join new_data with file_data
-            file_data.append(data)
-            # Sets file's current position at offset.
-            file.seek(0)
-            # Convert back to json.
-            json.dump(file_data, file, indent=4)
-    except FileNotFoundError:
-        with open(filename, 'w') as file:
-            # If file does not exist, create a new file and write data
-            json.dump([data], file, indent=4)
 
 # Streamlit app UI
 st.title("Feedback Bundle")
@@ -66,6 +51,7 @@ with st.form("feedback_form", clear_on_submit=False):  # Changed to False
             "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         }
         
-        save_data_json(feedback_data)
-        st.success("Feedback saved to JSON.")
+        #save_data_json(feedback_data)
+        DataLoaders.add_row_gsheet('Feedback',feedback_data)
+        st.success("Feedback saved")
         
