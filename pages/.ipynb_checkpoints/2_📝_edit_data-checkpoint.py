@@ -72,7 +72,7 @@ def edit_app():
                         # Directly call delete_feedback function here
                         #delete_feedback(feedback_data, i)
                         feedback_data.drop(index=i)
-                        st.session_state["out"]=DataLoaders.delete_row_gsheet("Feedback", i)
+                        DataLoaders.delete_row_gsheet("Feedback", i)
                         # Use st.experimental_rerun() to refresh and reflect the deletion
                         st.experimental_rerun()
     
@@ -88,7 +88,7 @@ else:
     # Once logged in, decide what to show based on role
     if st.session_state['role'] == 'admin':
         edit_app()
-        st.write(st.session_state["out"])
+
 
     
 

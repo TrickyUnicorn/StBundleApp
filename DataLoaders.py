@@ -47,7 +47,7 @@ def save_data_gsheet(worksheet_name, updated_data):
     
         conn.update(worksheet=worksheet_name, data = filtered_data_col)
     
-        st.success("data updated")
+        #st.success("data updated")
         return True
     
 
