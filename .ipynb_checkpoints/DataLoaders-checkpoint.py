@@ -34,8 +34,14 @@ def read_data_gsheet(worksheet_name):
     return filtered_data
 
 def save_data_gsheet(worksheet_name, updated_data):
+       # Initialize the loading bar
+        my_bar = st.progress(0)
+        
+        for percent_complete in range(100):
+            time.sleep(0.01)  # Simulate processing time
+            my_bar.progress(percent_complete + 1)
+        
         conn = st.connection("gsheets", type =GSheetsConnection )
-        st.write(updated_data) 
         time.sleep(10)
         conn.update(worksheet=worksheet_name, data=updated_data)
         data =  conn.read(worksheet=worksheet_name, ttl=1)

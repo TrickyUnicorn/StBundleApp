@@ -52,6 +52,6 @@ with st.form("feedback_form", clear_on_submit=False):  # Changed to False
         }
         
         #save_data_json(feedback_data)
-        DataLoaders.add_row_gsheet('Feedback',feedback_data)
-        st.success("Feedback saved")
+        if DataLoaders.add_row_gsheet('Feedback',feedback_data):
+            st.success("Feedback saved")
         
