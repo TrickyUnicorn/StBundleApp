@@ -1,0 +1,688 @@
+﻿Pozycja w cenniku;Obecna stawka;Nowa stawka wg indeksacji z propozycji;Różnica procentowa;Nowa stawka wg indeksacji z obecnej umowy
+PRZYJĘCIE - Przyjęcie produktu [szt.];0,47 zł;0,34 zł;-27,66%;0,54 zł
+PRZYJĘCIE - Lub przyjęcie opakowania zbiorczego [szt.];2,12 zł;1,09 zł;-48,58%;2,40 zł
+PRZYJĘCIE - Przyjęcie palety jednorodnej [szt.];9,35 zł;7,99 zł;-14,55%;10,57 zł
+PRZYJĘCIE - Minimalna opłata za przyjęcie dostawy;11,70 zł;9,90 zł;-15,38%;13,23 zł
+WYDANIE - > 30 000;2,97 zł;1,49 zł;-49,83%;3,36 zł
+WYDANIE - 20 000 - 29 999;3,07 zł;1,59 zł;-48,21%;3,47 zł
+WYDANIE - 10 000 - 19 999;3,30 zł;1,79 zł;-45,76%;3,73 zł
+WYDANIE - 6 000 - 9 999;3,59 zł;1,99 zł;-44,57%;4,06 zł
+WYDANIE - 3 000 - 5 999;4,01 zł;2,29 zł;-42,89%;4,54 zł
+WYDANIE - 1 000 - 2 999;5,00 zł;2,99 zł;-40,20%;5,65 zł
+WYDANIE - 500 - 999;5,15 zł;3,49 zł;-32,23%;5,82 zł
+WYDANIE - 0 - 499;5,59 zł;4,29 zł;-23,26%;6,32 zł
+WYDANIE - Pierwszy produkt z danego SKU;0,85 zł;0,79 zł;-7,06%;0,97 zł
+WYDANIE - Kolejny produkt z danego SKU;0,52 zł;0,49 zł;-5,77%;0,59 zł
+WYDANIE - Wydanie na opakowanie zbiorcze;1,49 zł;1,49 zł;0,00%;1,69 zł
+WYDANIE - Usługa pakowania;0,65 zł;0,99 zł;52,31%;0,74 zł
+ZWROTY - Otwarcie zwrotu;1,59 zł;2,09 zł;31,45%;1,80 zł
+ZWROTY - Pierwszy i każdy kolejny produkt w zwrocie;2,89 zł;2,19 zł;-24,22%;3,27 zł
+MAGAZYNOWANIE - Regał [1 m³]: (z dostępem do strefy pakowania);57,99 zł;57,99 zł;0,00%;65,53 zł
+MAGAZYNOWANIE - Paleta [1 szt.]: (z dostępem do strefy pakowania);79,99 zł;79,99 zł;0,00%;90,39 zł
+MAGAZYNOWANIE - Paleta [1 szt.]: (bez dostępu do strefy pakowania);39,99 zł;39,99 zł;0,00%;45,19 zł
+MAGAZYNOWANIE - Wieszak na ubrania [1 mb];59,99 zł;59,99 zł;0,00%;67,79 zł
+MAGAZYNOWANIE - Ubezpieczenie [% wartości towaru];x;0,05%;x;x
+OPIEKUN KLIENTA - Wsparcie Merchant Support [miesięcznie];1 126,00 zł;0,00 zł;-100,00%;0,00 zł
+OPIEKUN KLIENTA - Dedykowany opiekun Merchanta [miesięcznie];1 126,00 zł;1 999,00 zł;77,53%;1 272,38 zł
+USŁUGI DODATKOWE - Etykietowanie [szt.];0,49 zł;0,49 zł;0,00%;0,56 zł
+USŁUGI DODATKOWE - Wprowadzenie daty przydatności [szt.];0,29 zł;0,29 zł;0,00%;0,33 zł
+USŁUGI DODATKOWE - Wprowadzenie daty przydatności [opakowanie zbiorcze];0,89 zł;0,89 zł;0,00%;1,01 zł
+USŁUGI DODATKOWE - Wprowadzenie daty przydatności [paleta jednorodna];2,99 zł;2,99 zł;0,00%;3,38 zł
+USŁUGI DODATKOWE - Wprowadzenie numeru partii [szt.];0,29 zł;0,29 zł;0,00%;0,33 zł
+USŁUGI DODATKOWE - Wprowadzenie numeru partii [opakowanie zbiorcze];0,89 zł;0,89 zł;0,00%;1,01 zł
+USŁUGI DODATKOWE - Wprowadzenie numeru partii [paleta];2,99 zł;2,99 zł;0,00%;3,38 zł
+USŁUGI DODATKOWE - Wprowadzenie kodu SSCC [opakowanie zbiorcze];0,99 zł;0,49 zł;-50,51%;1,12 zł
+USŁUGI DODATKOWE - Insertowanie [szt.];0,29 zł;0,29 zł;0,00%;0,33 zł
+USŁUGI DODATKOWE - Wydanie palety jednorodnej;7,99 zł;7,99 zł;0,00%;9,03 zł
+USŁUGI DODATKOWE - Etykieta zwrotna [szt.];0,49 zł;0,49 zł;0,00%;0,56 zł
+USŁUGI DODATKOWE - Inwentaryzacja [szt.];0,29 zł;0,39 zł;34,48%;0,33 zł
+USŁUGI DODATKOWE - Inwentaryzacja z datą przydatności i/lub numerem partii [szt.];0,49 zł;0,49 zł;0,00%;0,56 zł
+USŁUGI DODATKOWE - Wydanie według FEFO [szt.];0,16 zł;0,13 zł;-18,75%;0,19 zł
+USŁUGI DODATKOWE - Wydanie według FEFO [opakowanie zbiorcze];0,32 zł;0,32 zł;0,00%;0,37 zł
+USŁUGI DODATKOWE - Priorytet [cena za paczkę];4,99 zł;4,99 zł;0,00%;5,64 zł
+USŁUGI DODATKOWE - Koszt palety jednorazowej;20,00 zł;39,00 zł;95,00%;22,60 zł
+USŁUGI DODATKOWE - palety EURO (bez kosztów wysyłki);99,00 zł;99,00 zł;0,00%;111,87 zł
+USŁUGI DODATKOWE - Obsługa zamówienia na umowie kurierskiej Merchanta [paczka];0,99 zł;0,99 zł;0,00%;1,12 zł
+USŁUGI DODATKOWE - Kontrola materiałów opakowaniowych Merchanta [SKU na miesiąc];79,90 zł;79,90 zł;0,00%;90,29 zł
+USŁUGI DODATKOWE - Godzina pracy magazyniera*;71,44 zł;76,00 zł;6,38%;80,73 zł
+USŁUGI DODATKOWE - Godzina pracy lider magazynu/Opiekun Merchanta*;111,86 zł;119,00 zł;6,38%;126,41 zł
+USŁUGI DODATKOWE - Godzina pracy kierownika projektów/wdrożeń*;187,06 zł;199,00 zł;6,38%;211,38 zł
+USŁUGI DODATKOWE - Godzina pracy programisty*;281,06 zł;299,00 zł;6,38%;317,60 zł
+"USŁUGI NIESTANDARDOWE - Paleta bez dostępu do kompletacji B [szt; wymiary 120x90 cm]";39,99 zł;45,19 zł;13,00%;45,19 zł
+"USŁUGI NIESTANDARDOWE - Paleta z dostępem do kompletacji A [szt; wymiary 120x90 cm]";79,99 zł;90,39 zł;13,00%;90,39 zł
+USŁUGI NIESTANDARDOWE - Serwisowanie urządzeń;15,57 zł;17,60 zł;13,04%;17,60 zł
+USŁUGI NIESTANDARDOWE - Opłata za materiały opakowaniowe [paczka];1,42 zł;1,61 zł;13,38%;1,61 zł
+KURIERZY - Poland - DPD - 1 kg (FC3, FC4);x;10,09 zł;x;0,00 zł
+KURIERZY - Poland - DPD - 2 kg (FC3, FC4);10,99 zł;10,09 zł;-8,19%;12,42 zł
+KURIERZY - Poland - DPD - 5 kg (FC3, FC4);11,89 zł;10,79 zł;-9,25%;13,44 zł
+KURIERZY - Poland - DPD - 10 kg (FC3, FC4);12,59 zł;12,59 zł;0,00%;14,23 zł
+KURIERZY - Poland - DPD - 15 kg (FC3, FC4);14,49 zł;14,19 zł;-2,07%;16,38 zł
+KURIERZY - Poland - DPD - 20 kg (FC3, FC4);21,99 zł;19,39 zł;-11,82%;24,85 zł
+KURIERZY - Poland - DPD - 25 kg (FC3, FC4);21,99 zł;20,39 zł;-7,28%;24,85 zł
+KURIERZY - Poland - DPD - 30 kg (FC3, FC4);x;22,49 zł;x;0,00 zł
+KURIERZY - Poland - Paczkomaty Inpost - PACZKOMAT A (FC3, FC4);11,49 zł;11,09 zł;-3,48%;12,99 zł
+KURIERZY - Poland - Paczkomaty Inpost - PACZKOMAT B (FC3, FC4);11,99 zł;11,49 zł;-4,17%;13,55 zł
+KURIERZY - Poland - Paczkomaty Inpost - PACZKOMAT C (FC3, FC4);12,59 zł;12,09 zł;-3,97%;14,23 zł
+KURIERZY - Poland - Kurier Inpost - 1 kg (FC3, FC4);x;13,59 zł;x;0,00 zł
+KURIERZY - Poland - Kurier Inpost - 2 kg (FC3, FC4);x;13,89 zł;x;0,00 zł
+KURIERZY - Poland - Kurier Inpost - 5 kg (FC3, FC4);x;13,89 zł;x;0,00 zł
+KURIERZY - Poland - Kurier Inpost - 10 kg (FC3, FC4);x;15,09 zł;x;0,00 zł
+KURIERZY - Poland - Kurier Inpost - 15 kg (FC3, FC4);x;17,49 zł;x;0,00 zł
+KURIERZY - Poland - Kurier Inpost - 20 kg (FC3, FC4);x;17,49 zł;x;0,00 zł
+KURIERZY - Poland - Kurier Inpost - 25 kg (FC3, FC4);x;18,49 zł;x;0,00 zł
+KURIERZY - Poland - Kurier Inpost - 30 kg (FC3, FC4);x;18,49 zł;x;0,00 zł
+KURIERZY - Poland - DHL Parcel - 1 kg (FC3, FC4);x;14,29 zł;x;0,00 zł
+KURIERZY - Poland - DHL Parcel - 2 kg (FC3, FC4);x;14,29 zł;x;0,00 zł
+KURIERZY - Poland - DHL Parcel - 5 kg (FC3, FC4);x;14,29 zł;x;0,00 zł
+KURIERZY - Poland - DHL Parcel - 10 kg (FC3, FC4);x;16,69 zł;x;0,00 zł
+KURIERZY - Poland - DHL Parcel - 15 kg (FC3, FC4);x;20,09 zł;x;0,00 zł
+KURIERZY - Poland - DHL Parcel - 20 kg (FC3, FC4);x;20,09 zł;x;0,00 zł
+KURIERZY - Poland - DHL Parcel - 25 kg (FC3, FC4);x;22,89 zł;x;0,00 zł
+KURIERZY - Poland - DHL Parcel - 30 kg (FC3, FC4);x;22,89 zł;x;0,00 zł
+KURIERZY - Poland - Orlen Paczka - Gabaryt S (FC3);x;9,39 zł;x;0,00 zł
+KURIERZY - Poland - Orlen Paczka - Gabaryt M (FC3);x;9,79 zł;x;0,00 zł
+KURIERZY - Poland - Orlen Paczka - Gabaryt L (FC3);x;10,89 zł;x;0,00 zł
+KURIERZY - Poland - Inpost Szybkie Zwroty - Paczkomat Szybkie Zwroty A (FC3, FC4);x;9,59 zł;x;0,00 zł
+KURIERZY - Poland - Inpost Szybkie Zwroty - Paczkomat Szybkie Zwroty B (FC3, FC4);x;9,99 zł;x;0,00 zł
+KURIERZY - Poland - Inpost Szybkie Zwroty - Paczkomat Szybkie Zwroty C (FC3, FC4);x;10,59 zł;x;0,00 zł
+KURIERZY - Austria - DPD - 1 kg (FC3, FC4);x;33,29 zł;x;0,00 zł
+KURIERZY - Austria - DPD - 2 kg (FC3, FC4);x;34,79 zł;x;0,00 zł
+KURIERZY - Austria - DPD - 5 kg (FC3, FC4);x;46,29 zł;x;0,00 zł
+KURIERZY - Austria - DPD - 10 kg (FC3, FC4);x;48,39 zł;x;0,00 zł
+KURIERZY - Austria - DPD - 15 kg (FC3, FC4);x;80,19 zł;x;0,00 zł
+KURIERZY - Austria - DPD - 20 kg (FC3, FC4);x;80,19 zł;x;0,00 zł
+KURIERZY - Belgium - DPD - 1 kg (FC3, FC4);x;30,89 zł;x;0,00 zł
+KURIERZY - Belgium - DPD - 2 kg (FC3, FC4);x;32,49 zł;x;0,00 zł
+KURIERZY - Belgium - DPD - 5 kg (FC3, FC4);x;41,99 zł;x;0,00 zł
+KURIERZY - Belgium - DPD - 10 kg (FC3, FC4);x;43,89 zł;x;0,00 zł
+KURIERZY - Belgium - DPD - 15 kg (FC3, FC4);x;73,69 zł;x;0,00 zł
+KURIERZY - Belgium - DPD - 20 kg (FC3, FC4);x;73,69 zł;x;0,00 zł
+KURIERZY - Bułgaria - DPD - 1 kg (FC3, FC4);x;57,99 zł;x;0,00 zł
+KURIERZY - Bułgaria - DPD - 2 kg (FC3, FC4);x;59,59 zł;x;0,00 zł
+KURIERZY - Bułgaria - DPD - 5 kg (FC3, FC4);x;86,39 zł;x;0,00 zł
+KURIERZY - Bułgaria - DPD - 10 kg (FC3, FC4);x;90,29 zł;x;0,00 zł
+KURIERZY - Bułgaria - DPD - 15 kg (FC3, FC4);x;169,09 zł;x;0,00 zł
+KURIERZY - Bułgaria - DPD - 20 kg (FC3, FC4);x;169,09 zł;x;0,00 zł
+KURIERZY - Croatia - DPD - 1 kg (FC3, FC4);x;35,59 zł;x;0,00 zł
+KURIERZY - Croatia - DPD - 2 kg (FC3, FC4);x;37,19 zł;x;0,00 zł
+KURIERZY - Croatia - DPD - 5 kg (FC3, FC4);x;45,19 zł;x;0,00 zł
+KURIERZY - Croatia - DPD - 10 kg (FC3, FC4);x;47,19 zł;x;0,00 zł
+KURIERZY - Croatia - DPD - 15 kg (FC3, FC4);x;71,49 zł;x;0,00 zł
+KURIERZY - Croatia - DPD - 20 kg (FC3, FC4);x;71,49 zł;x;0,00 zł
+KURIERZY - Czech Republic - DPD - 1 kg (FC3, FC4);x;17,09 zł;x;0,00 zł
+KURIERZY - Czech Republic - DPD - 2 kg (FC3, FC4);x;17,09 zł;x;0,00 zł
+KURIERZY - Czech Republic - DPD - 5 kg (FC3, FC4);x;26,59 zł;x;0,00 zł
+KURIERZY - Czech Republic - DPD - 10 kg (FC3, FC4);x;27,79 zł;x;0,00 zł
+KURIERZY - Czech Republic - DPD - 15 kg (FC3, FC4);x;40,79 zł;x;0,00 zł
+KURIERZY - Czech Republic - DPD - 20 kg (FC3, FC4);x;40,79 zł;x;0,00 zł
+KURIERZY - Denmark - DPD - 1 kg (FC3, FC4);x;25,49 zł;x;0,00 zł
+KURIERZY - Denmark - DPD - 2 kg (FC3, FC4);x;27,09 zł;x;0,00 zł
+KURIERZY - Denmark - DPD - 5 kg (FC3, FC4);x;35,59 zł;x;0,00 zł
+KURIERZY - Denmark - DPD - 10 kg (FC3, FC4);x;37,19 zł;x;0,00 zł
+KURIERZY - Denmark - DPD - 15 kg (FC3, FC4);x;53,39 zł;x;0,00 zł
+KURIERZY - Denmark - DPD - 20 kg (FC3, FC4);x;53,39 zł;x;0,00 zł
+KURIERZY - Estonia - DPD - 1 kg (FC3, FC4);x;28,49 zł;x;0,00 zł
+KURIERZY - Estonia - DPD - 2 kg (FC3, FC4);x;30,09 zł;x;0,00 zł
+KURIERZY - Estonia - DPD - 5 kg (FC3, FC4);x;42,59 zł;x;0,00 zł
+KURIERZY - Estonia - DPD - 10 kg (FC3, FC4);x;44,49 zł;x;0,00 zł
+KURIERZY - Estonia - DPD - 15 kg (FC3, FC4);x;71,09 zł;x;0,00 zł
+KURIERZY - Estonia - DPD - 20 kg (FC3, FC4);x;71,09 zł;x;0,00 zł
+KURIERZY - Finland - DPD - 1 kg (FC3, FC4);x;57,99 zł;x;0,00 zł
+KURIERZY - Finland - DPD - 2 kg (FC3, FC4);x;59,59 zł;x;0,00 zł
+KURIERZY - Finland - DPD - 5 kg (FC3, FC4);x;76,09 zł;x;0,00 zł
+KURIERZY - Finland - DPD - 10 kg (FC3, FC4);x;79,49 zł;x;0,00 zł
+KURIERZY - Finland - DPD - 15 kg (FC3, FC4);x;131,89 zł;x;0,00 zł
+KURIERZY - Finland - DPD - 20 kg (FC3, FC4);x;131,89 zł;x;0,00 zł
+KURIERZY - France - DPD - 1 kg (FC3, FC4);x;31,29 zł;x;0,00 zł
+KURIERZY - France - DPD - 2 kg (FC3, FC4);x;32,89 zł;x;0,00 zł
+KURIERZY - France - DPD - 5 kg (FC3, FC4);x;46,79 zł;x;0,00 zł
+KURIERZY - France - DPD - 10 kg (FC3, FC4);x;48,89 zł;x;0,00 zł
+KURIERZY - France - DPD - 15 kg (FC3, FC4);x;106,69 zł;x;0,00 zł
+KURIERZY - France - DPD - 20 kg (FC3, FC4);x;106,69 zł;x;0,00 zł
+KURIERZY - Greece - DPD - 1 kg (FC3, FC4);x;64,09 zł;x;0,00 zł
+KURIERZY - Greece - DPD - 2 kg (FC3, FC4);x;65,69 zł;x;0,00 zł
+KURIERZY - Greece - DPD - 5 kg (FC3, FC4);x;111,79 zł;x;0,00 zł
+KURIERZY - Greece - DPD - 10 kg (FC3, FC4);x;116,79 zł;x;0,00 zł
+KURIERZY - Greece - DPD - 15 kg (FC3, FC4);x;195,59 zł;x;0,00 zł
+KURIERZY - Greece - DPD - 20 kg (FC3, FC4);x;195,59 zł;x;0,00 zł
+KURIERZY - Spain - DPD - 1 kg (FC3, FC4);x;28,19 zł;x;0,00 zł
+KURIERZY - Spain - DPD - 2 kg (FC3, FC4);x;41,49 zł;x;0,00 zł
+KURIERZY - Spain - DPD - 5 kg (FC3, FC4);x;79,29 zł;x;0,00 zł
+KURIERZY - Spain - DPD - 10 kg (FC3, FC4);x;82,79 zł;x;0,00 zł
+KURIERZY - Spain - DPD - 15 kg (FC3, FC4);x;149,99 zł;x;0,00 zł
+KURIERZY - Spain - DPD - 20 kg (FC3, FC4);x;149,99 zł;x;0,00 zł
+KURIERZY - Netherlands - DPD - 1 kg (FC3, FC4);x;24,39 zł;x;0,00 zł
+KURIERZY - Netherlands - DPD - 2 kg (FC3, FC4);x;25,99 zł;x;0,00 zł
+KURIERZY - Netherlands - DPD - 5 kg (FC3, FC4);x;37,09 zł;x;0,00 zł
+KURIERZY - Netherlands - DPD - 10 kg (FC3, FC4);x;38,79 zł;x;0,00 zł
+KURIERZY - Netherlands - DPD - 15 kg (FC3, FC4);x;66,59 zł;x;0,00 zł
+KURIERZY - Netherlands - DPD - 20 kg (FC3, FC4);x;66,59 zł;x;0,00 zł
+KURIERZY - Ireland - DPD - 1 kg (FC3, FC4);x;41,19 zł;x;0,00 zł
+KURIERZY - Ireland - DPD - 2 kg (FC3, FC4);x;42,79 zł;x;0,00 zł
+KURIERZY - Ireland - DPD - 5 kg (FC3, FC4);x;70,39 zł;x;0,00 zł
+KURIERZY - Ireland - DPD - 10 kg (FC3, FC4);x;73,59 zł;x;0,00 zł
+KURIERZY - Ireland - DPD - 15 kg (FC3, FC4);x;134,19 zł;x;0,00 zł
+KURIERZY - Ireland - DPD - 20 kg (FC3, FC4);x;134,19 zł;x;0,00 zł
+KURIERZY - Lithuania - DPD - 1 kg (FC3, FC4);x;20,29 zł;x;0,00 zł
+KURIERZY - Lithuania - DPD - 2 kg (FC3, FC4);x;21,89 zł;x;0,00 zł
+KURIERZY - Lithuania - DPD - 5 kg (FC3, FC4);x;27,89 zł;x;0,00 zł
+KURIERZY - Lithuania - DPD - 10 kg (FC3, FC4);x;29,19 zł;x;0,00 zł
+KURIERZY - Lithuania - DPD - 15 kg (FC3, FC4);x;44,59 zł;x;0,00 zł
+KURIERZY - Lithuania - DPD - 20 kg (FC3, FC4);x;44,59 zł;x;0,00 zł
+KURIERZY - Luxembourg - DPD - 1 kg (FC3, FC4);x;31,39 zł;x;0,00 zł
+KURIERZY - Luxembourg - DPD - 2 kg (FC3, FC4);x;32,99 zł;x;0,00 zł
+KURIERZY - Luxembourg - DPD - 5 kg (FC3, FC4);x;37,99 zł;x;0,00 zł
+KURIERZY - Luxembourg - DPD - 10 kg (FC3, FC4);x;39,69 zł;x;0,00 zł
+KURIERZY - Luxembourg - DPD - 15 kg (FC3, FC4);x;78,59 zł;x;0,00 zł
+KURIERZY - Luxembourg - DPD - 20 kg (FC3, FC4);x;78,59 zł;x;0,00 zł
+KURIERZY - Latvia - DPD - 1 kg (FC3, FC4);x;24,99 zł;x;0,00 zł
+KURIERZY - Latvia - DPD - 2 kg (FC3, FC4);x;26,59 zł;x;0,00 zł
+KURIERZY - Latvia - DPD - 5 kg (FC3, FC4);x;35,59 zł;x;0,00 zł
+KURIERZY - Latvia - DPD - 10 kg (FC3, FC4);x;37,19 zł;x;0,00 zł
+KURIERZY - Latvia - DPD - 15 kg (FC3, FC4);x;57,59 zł;x;0,00 zł
+KURIERZY - Latvia - DPD - 20 kg (FC3, FC4);x;57,59 zł;x;0,00 zł
+KURIERZY - Germany - DPD - 1 kg (FC3, FC4);x;25,49 zł;x;0,00 zł
+KURIERZY - Germany - DPD - 2 kg (FC3, FC4);x;27,09 zł;x;0,00 zł
+KURIERZY - Germany - DPD - 5 kg (FC3, FC4);x;35,59 zł;x;0,00 zł
+KURIERZY - Germany - DPD - 10 kg (FC3, FC4);x;37,19 zł;x;0,00 zł
+KURIERZY - Germany - DPD - 15 kg (FC3, FC4);x;53,39 zł;x;0,00 zł
+KURIERZY - Germany - DPD - 20 kg (FC3, FC4);x;53,39 zł;x;0,00 zł
+KURIERZY - Portugal - DPD - 1 kg (FC3, FC4);x;36,69 zł;x;0,00 zł
+KURIERZY - Portugal - DPD - 2 kg (FC3, FC4);x;38,29 zł;x;0,00 zł
+KURIERZY - Portugal - DPD - 5 kg (FC3, FC4);x;66,19 zł;x;0,00 zł
+KURIERZY - Portugal - DPD - 10 kg (FC3, FC4);x;69,19 zł;x;0,00 zł
+KURIERZY - Portugal - DPD - 15 kg (FC3, FC4);x;147,39 zł;x;0,00 zł
+KURIERZY - Portugal - DPD - 20 kg (FC3, FC4);x;147,39 zł;x;0,00 zł
+KURIERZY - Romania - DPD - 1 kg (FC3, FC4);x;52,09 zł;x;0,00 zł
+KURIERZY - Romania - DPD - 2 kg (FC3, FC4);x;53,69 zł;x;0,00 zł
+KURIERZY - Romania - DPD - 5 kg (FC3, FC4);x;69,89 zł;x;0,00 zł
+KURIERZY - Romania - DPD - 10 kg (FC3, FC4);x;73,09 zł;x;0,00 zł
+KURIERZY - Romania - DPD - 15 kg (FC3, FC4);x;120,89 zł;x;0,00 zł
+KURIERZY - Romania - DPD - 20 kg (FC3, FC4);x;120,89 zł;x;0,00 zł
+KURIERZY - Slovakia - DPD - 1 kg (FC3, FC4);x;20,79 zł;x;0,00 zł
+KURIERZY - Slovakia - DPD - 2 kg (FC3, FC4);x;22,39 zł;x;0,00 zł
+KURIERZY - Slovakia - DPD - 5 kg (FC3, FC4);x;26,89 zł;x;0,00 zł
+KURIERZY - Slovakia - DPD - 10 kg (FC3, FC4);x;28,09 zł;x;0,00 zł
+KURIERZY - Slovakia - DPD - 15 kg (FC3, FC4);x;41,79 zł;x;0,00 zł
+KURIERZY - Slovakia - DPD - 20 kg (FC3, FC4);x;41,79 zł;x;0,00 zł
+KURIERZY - Slovenia - DPD - 1 kg (FC3, FC4);x;31,09 zł;x;0,00 zł
+KURIERZY - Slovenia - DPD - 2 kg (FC3, FC4);x;32,79 zł;x;0,00 zł
+KURIERZY - Slovenia - DPD - 5 kg (FC3, FC4);x;47,59 zł;x;0,00 zł
+KURIERZY - Slovenia - DPD - 10 kg (FC3, FC4);x;49,69 zł;x;0,00 zł
+KURIERZY - Slovenia - DPD - 15 kg (FC3, FC4);x;95,39 zł;x;0,00 zł
+KURIERZY - Slovenia - DPD - 20 kg (FC3, FC4);x;95,39 zł;x;0,00 zł
+KURIERZY - Sweden - DPD - 1 kg (FC3, FC4);x;38,79 zł;x;0,00 zł
+KURIERZY - Sweden - DPD - 2 kg (FC3, FC4);x;40,39 zł;x;0,00 zł
+KURIERZY - Sweden - DPD - 5 kg (FC3, FC4);x;54,29 zł;x;0,00 zł
+KURIERZY - Sweden - DPD - 10 kg (FC3, FC4);x;56,69 zł;x;0,00 zł
+KURIERZY - Sweden - DPD - 15 kg (FC3, FC4);x;92,19 zł;x;0,00 zł
+KURIERZY - Sweden - DPD - 20 kg (FC3, FC4);x;92,19 zł;x;0,00 zł
+KURIERZY - Hungary - DPD - 1 kg (FC3, FC4);x;20,49 zł;x;0,00 zł
+KURIERZY - Hungary - DPD - 2 kg (FC3, FC4);x;22,09 zł;x;0,00 zł
+KURIERZY - Hungary - DPD - 5 kg (FC3, FC4);x;26,89 zł;x;0,00 zł
+KURIERZY - Hungary - DPD - 10 kg (FC3, FC4);x;28,09 zł;x;0,00 zł
+KURIERZY - Hungary - DPD - 15 kg (FC3, FC4);x;42,69 zł;x;0,00 zł
+KURIERZY - Hungary - DPD - 20 kg (FC3, FC4);x;42,69 zł;x;0,00 zł
+KURIERZY - United Kingdom - DPD - 1 kg (FC3, FC4);x;31,89 zł;x;0,00 zł
+KURIERZY - United Kingdom - DPD - 2 kg (FC3, FC4);x;33,39 zł;x;0,00 zł
+KURIERZY - United Kingdom - DPD - 5 kg (FC3, FC4);x;49,49 zł;x;0,00 zł
+KURIERZY - United Kingdom - DPD - 10 kg (FC3, FC4);x;51,69 zł;x;0,00 zł
+KURIERZY - United Kingdom - DPD - 15 kg (FC3, FC4);x;92,09 zł;x;0,00 zł
+KURIERZY - United Kingdom - DPD - 20 kg (FC3, FC4);x;92,09 zł;x;0,00 zł
+KURIERZY - Italy - DPD - 1 kg (FC3, FC4);x;32,39 zł;x;0,00 zł
+KURIERZY - Italy - DPD - 2 kg (FC3, FC4);x;39,29 zł;x;0,00 zł
+KURIERZY - Italy - DPD - 5 kg (FC3, FC4);x;60,59 zł;x;0,00 zł
+KURIERZY - Italy - DPD - 10 kg (FC3, FC4);x;63,39 zł;x;0,00 zł
+KURIERZY - Italy - DPD - 15 kg (FC3, FC4);x;96,69 zł;x;0,00 zł
+KURIERZY - Italy - DPD - 20 kg (FC3, FC4);x;96,69 zł;x;0,00 zł
+KURIERZY - Austria - Packeta - 1 kg (FC4);x;33,39 zł;x;0,00 zł
+KURIERZY - Austria - Packeta - 2 kg (FC4);x;33,39 zł;x;0,00 zł
+KURIERZY - Austria - Packeta - 5 kg (FC4);x;33,39 zł;x;0,00 zł
+KURIERZY - Austria - Packeta - 10 kg (FC4);x;35,99 zł;x;0,00 zł
+KURIERZY - Belgium - Packeta - 1 kg (FC4);x;51,19 zł;x;0,00 zł
+KURIERZY - Belgium - Packeta - 2 kg (FC4);x;51,19 zł;x;0,00 zł
+KURIERZY - Belgium - Packeta - 5 kg (FC4);x;53,39 zł;x;0,00 zł
+KURIERZY - Belgium - Packeta - 10 kg (FC4);x;56,89 zł;x;0,00 zł
+KURIERZY - Bułgaria - Packeta - 1 kg (FC4);x;35,59 zł;x;0,00 zł
+KURIERZY - Bułgaria - Packeta - 2 kg (FC4);x;35,59 zł;x;0,00 zł
+KURIERZY - Bułgaria - Packeta - 5 kg (FC4);x;41,19 zł;x;0,00 zł
+KURIERZY - Bułgaria - Packeta - 10 kg (FC4);x;55,79 zł;x;0,00 zł
+KURIERZY - Czech Republic - Packeta - 1 kg (FC4);x;19,89 zł;x;0,00 zł
+KURIERZY - Czech Republic - Packeta - 2 kg (FC4);x;19,89 zł;x;0,00 zł
+KURIERZY - Czech Republic - Packeta - 5 kg (FC4);x;21,19 zł;x;0,00 zł
+KURIERZY - Czech Republic - Packeta - 10 kg (FC4);x;24,39 zł;x;0,00 zł
+KURIERZY - Germany - Packeta - 1 kg (FC4);x;28,89 zł;x;0,00 zł
+KURIERZY - Germany - Packeta - 2 kg (FC4);x;29,99 zł;x;0,00 zł
+KURIERZY - Germany - Packeta - 5 kg (FC4);x;32,29 zł;x;0,00 zł
+KURIERZY - Germany - Packeta - 10 kg (FC4);x;42,99 zł;x;0,00 zł
+KURIERZY - Denmark - Packeta - 1 kg (FC4);x;44,49 zł;x;0,00 zł
+KURIERZY - Denmark - Packeta - 2 kg (FC4);x;58,89 zł;x;0,00 zł
+KURIERZY - Denmark - Packeta - 5 kg (FC4);x;58,89 zł;x;0,00 zł
+KURIERZY - Denmark - Packeta - 10 kg (FC4);x;61,59 zł;x;0,00 zł
+KURIERZY - Estonia - Packeta - 1 kg (FC4);x;54,49 zł;x;0,00 zł
+KURIERZY - Estonia - Packeta - 2 kg (FC4);x;57,79 zł;x;0,00 zł
+KURIERZY - Estonia - Packeta - 5 kg (FC4);x;57,79 zł;x;0,00 zł
+KURIERZY - Estonia - Packeta - 10 kg (FC4);x;65,09 zł;x;0,00 zł
+KURIERZY - Spain - Packeta - 1 kg (FC4);x;38,89 zł;x;0,00 zł
+KURIERZY - Spain - Packeta - 2 kg (FC4);x;38,89 zł;x;0,00 zł
+KURIERZY - Spain - Packeta - 5 kg (FC4);x;41,19 zł;x;0,00 zł
+KURIERZY - Spain - Packeta - 10 kg (FC4);x;52,29 zł;x;0,00 zł
+KURIERZY - Finland - Packeta - 1 kg (FC4);x;113,39 zł;x;0,00 zł
+KURIERZY - Finland - Packeta - 2 kg (FC4);x;113,39 zł;x;0,00 zł
+KURIERZY - Finland - Packeta - 5 kg (FC4);x;116,69 zł;x;0,00 zł
+KURIERZY - Finland - Packeta - 10 kg (FC4);x;127,79 zł;x;0,00 zł
+KURIERZY - France - Packeta - 1 kg (FC4);x;41,19 zł;x;0,00 zł
+KURIERZY - France - Packeta - 2 kg (FC4);x;43,39 zł;x;0,00 zł
+KURIERZY - France - Packeta - 5 kg (FC4);x;45,59 zł;x;0,00 zł
+KURIERZY - France - Packeta - 10 kg (FC4);x;65,09 zł;x;0,00 zł
+KURIERZY - Greece - Packeta - 1 kg (FC4);x;28,89 zł;x;0,00 zł
+KURIERZY - Greece - Packeta - 2 kg (FC4);x;28,89 zł;x;0,00 zł
+KURIERZY - Greece - Packeta - 5 kg (FC4);x;42,29 zł;x;0,00 zł
+KURIERZY - Greece - Packeta - 10 kg (FC4);x;67,39 zł;x;0,00 zł
+KURIERZY - Croatia - Packeta - 1 kg (FC4);x;28,89 zł;x;0,00 zł
+KURIERZY - Croatia - Packeta - 2 kg (FC4);x;28,89 zł;x;0,00 zł
+KURIERZY - Croatia - Packeta - 5 kg (FC4);x;29,99 zł;x;0,00 zł
+KURIERZY - Croatia - Packeta - 10 kg (FC4);x;33,69 zł;x;0,00 zł
+KURIERZY - Hungary - Packeta - 1 kg (FC4);x;24,49 zł;x;0,00 zł
+KURIERZY - Hungary - Packeta - 2 kg (FC4);x;25,59 zł;x;0,00 zł
+KURIERZY - Hungary - Packeta - 5 kg (FC4);x;26,69 zł;x;0,00 zł
+KURIERZY - Hungary - Packeta - 10 kg (FC4);x;29,09 zł;x;0,00 zł
+KURIERZY - Ireland - Packeta - 1 kg (FC4);x;61,19 zł;x;0,00 zł
+KURIERZY - Ireland - Packeta - 2 kg (FC4);x;65,59 zł;x;0,00 zł
+KURIERZY - Ireland - Packeta - 5 kg (FC4);x;78,89 zł;x;0,00 zł
+KURIERZY - Ireland - Packeta - 10 kg (FC4);x;106,89 zł;x;0,00 zł
+KURIERZY - Italy - Packeta - 1 kg (FC4);x;42,29 zł;x;0,00 zł
+KURIERZY - Italy - Packeta - 2 kg (FC4);x;42,29 zł;x;0,00 zł
+KURIERZY - Italy - Packeta - 5 kg (FC4);x;57,79 zł;x;0,00 zł
+KURIERZY - Italy - Packeta - 10 kg (FC4);x;65,09 zł;x;0,00 zł
+KURIERZY - Lithuania - Packeta - 1 kg (FC4);x;54,49 zł;x;0,00 zł
+KURIERZY - Lithuania - Packeta - 2 kg (FC4);x;58,89 zł;x;0,00 zł
+KURIERZY - Lithuania - Packeta - 5 kg (FC4);x;58,89 zł;x;0,00 zł
+KURIERZY - Lithuania - Packeta - 10 kg (FC4);x;68,59 zł;x;0,00 zł
+KURIERZY - Latvia - Packeta - 1 kg (FC4);x;54,49 zł;x;0,00 zł
+KURIERZY - Latvia - Packeta - 2 kg (FC4);x;57,79 zł;x;0,00 zł
+KURIERZY - Latvia - Packeta - 5 kg (FC4);x;57,79 zł;x;0,00 zł
+KURIERZY - Latvia - Packeta - 10 kg (FC4);x;66,19 zł;x;0,00 zł
+KURIERZY - Netherlands - Packeta - 1 kg (FC4);x;49,99 zł;x;0,00 zł
+KURIERZY - Netherlands - Packeta - 2 kg (FC4);x;49,99 zł;x;0,00 zł
+KURIERZY - Netherlands - Packeta - 5 kg (FC4);x;54,49 zł;x;0,00 zł
+KURIERZY - Netherlands - Packeta - 10 kg (FC4);x;63,89 zł;x;0,00 zł
+KURIERZY - Portugal - Packeta - 1 kg (FC4);x;38,89 zł;x;0,00 zł
+KURIERZY - Portugal - Packeta - 2 kg (FC4);x;38,89 zł;x;0,00 zł
+KURIERZY - Portugal - Packeta - 5 kg (FC4);x;41,19 zł;x;0,00 zł
+KURIERZY - Portugal - Packeta - 10 kg (FC4);x;52,29 zł;x;0,00 zł
+KURIERZY - Romania - Packeta - 1 kg (FC4);x;20,99 zł;x;0,00 zł
+KURIERZY - Romania - Packeta - 2 kg (FC4);x;24,49 zł;x;0,00 zł
+KURIERZY - Romania - Packeta - 5 kg (FC4);x;25,59 zł;x;0,00 zł
+KURIERZY - Romania - Packeta - 10 kg (FC4);x;33,69 zł;x;0,00 zł
+KURIERZY - Sweden - Packeta - 1 kg (FC4);x;82,29 zł;x;0,00 zł
+KURIERZY - Sweden - Packeta - 2 kg (FC4);x;82,29 zł;x;0,00 zł
+KURIERZY - Sweden - Packeta - 5 kg (FC4);x;85,59 zł;x;0,00 zł
+KURIERZY - Sweden - Packeta - 10 kg (FC4);x;90,59 zł;x;0,00 zł
+KURIERZY - Slovenia - Packeta - 1 kg (FC4);x;34,49 zł;x;0,00 zł
+KURIERZY - Slovenia - Packeta - 2 kg (FC4);x;34,49 zł;x;0,00 zł
+KURIERZY - Slovenia - Packeta - 5 kg (FC4);x;36,69 zł;x;0,00 zł
+KURIERZY - Slovenia - Packeta - 10 kg (FC4);x;40,69 zł;x;0,00 zł
+KURIERZY - Slovakia - Packeta - 1 kg (FC4);x;22,29 zł;x;0,00 zł
+KURIERZY - Slovakia - Packeta - 2 kg (FC4);x;22,29 zł;x;0,00 zł
+KURIERZY - Slovakia - Packeta - 5 kg (FC4);x;23,39 zł;x;0,00 zł
+KURIERZY - Slovakia - Packeta - 10 kg (FC4);x;27,89 zł;x;0,00 zł
+KURIERZY - Germany - Eurohermes - 1 kg (FC4);x;16,59 zł;x;0,00 zł
+KURIERZY - Germany - Eurohermes - 2 kg (FC4);x;17,49 zł;x;0,00 zł
+KURIERZY - Germany - Eurohermes - 5 kg (FC4);x;20,19 zł;x;0,00 zł
+KURIERZY - Germany - Eurohermes - 10 kg (FC4);x;23,79 zł;x;0,00 zł
+KURIERZY - Germany - Eurohermes - 15 kg (FC4);x;31,39 zł;x;0,00 zł
+KURIERZY - Germany - Eurohermes - 20 kg (FC4);x;31,39 zł;x;0,00 zł
+KURIERZY - Austria - GLS - 1 kg (FC4);x;22,69 zł;x;0,00 zł
+KURIERZY - Austria - GLS - 2 kg (FC4);x;22,69 zł;x;0,00 zł
+KURIERZY - Austria - GLS - 5 kg (FC4);x;36,99 zł;x;0,00 zł
+KURIERZY - Austria - GLS - 10 kg (FC4);x;40,79 zł;x;0,00 zł
+KURIERZY - Austria - GLS - 15 kg (FC4);x;51,19 zł;x;0,00 zł
+KURIERZY - Austria - GLS - 20 kg (FC4);x;58,69 zł;x;0,00 zł
+KURIERZY - Austria - GLS - 30 kg (FC4);x;61,99 zł;x;0,00 zł
+KURIERZY - Belgium - GLS - 1 kg (FC4);x;24,39 zł;x;0,00 zł
+KURIERZY - Belgium - GLS - 2 kg (FC4);x;24,39 zł;x;0,00 zł
+KURIERZY - Belgium - GLS - 5 kg (FC4);x;49,39 zł;x;0,00 zł
+KURIERZY - Belgium - GLS - 10 kg (FC4);x;53,69 zł;x;0,00 zł
+KURIERZY - Belgium - GLS - 15 kg (FC4);x;65,39 zł;x;0,00 zł
+KURIERZY - Belgium - GLS - 20 kg (FC4);x;72,39 zł;x;0,00 zł
+KURIERZY - Belgium - GLS - 30 kg (FC4);x;75,29 zł;x;0,00 zł
+KURIERZY - Bułgaria - GLS - 1 kg (FC4);x;35,59 zł;x;0,00 zł
+KURIERZY - Bułgaria - GLS - 2 kg (FC4);x;35,59 zł;x;0,00 zł
+KURIERZY - Bułgaria - GLS - 5 kg (FC4);x;86,39 zł;x;0,00 zł
+KURIERZY - Bułgaria - GLS - 10 kg (FC4);x;93,49 zł;x;0,00 zł
+KURIERZY - Bułgaria - GLS - 15 kg (FC4);x;109,39 zł;x;0,00 zł
+KURIERZY - Bułgaria - GLS - 20 kg (FC4);x;117,89 zł;x;0,00 zł
+KURIERZY - Bułgaria - GLS - 30 kg (FC4);x;117,89 zł;x;0,00 zł
+KURIERZY - Croatia - GLS - 1 kg (FC4);x;32,99 zł;x;0,00 zł
+KURIERZY - Croatia - GLS - 2 kg (FC4);x;32,99 zł;x;0,00 zł
+KURIERZY - Croatia - GLS - 5 kg (FC4);x;59,59 zł;x;0,00 zł
+KURIERZY - Croatia - GLS - 10 kg (FC4);x;65,39 zł;x;0,00 zł
+KURIERZY - Croatia - GLS - 15 kg (FC4);x;78,19 zł;x;0,00 zł
+KURIERZY - Croatia - GLS - 20 kg (FC4);x;84,89 zł;x;0,00 zł
+KURIERZY - Croatia - GLS - 30 kg (FC4);x;86,29 zł;x;0,00 zł
+KURIERZY - Czech Republic - GLS - 1 kg (FC4);x;28,79 zł;x;0,00 zł
+KURIERZY - Czech Republic - GLS - 2 kg (FC4);x;28,79 zł;x;0,00 zł
+KURIERZY - Czech Republic - GLS - 5 kg (FC4);x;34,79 zł;x;0,00 zł
+KURIERZY - Czech Republic - GLS - 10 kg (FC4);x;38,59 zł;x;0,00 zł
+KURIERZY - Czech Republic - GLS - 15 kg (FC4);x;45,99 zł;x;0,00 zł
+KURIERZY - Czech Republic - GLS - 20 kg (FC4);x;50,89 zł;x;0,00 zł
+KURIERZY - Czech Republic - GLS - 30 kg (FC4);x;53,29 zł;x;0,00 zł
+KURIERZY - Denmark - GLS - 1 kg (FC4);x;24,09 zł;x;0,00 zł
+KURIERZY - Denmark - GLS - 2 kg (FC4);x;24,09 zł;x;0,00 zł
+KURIERZY - Denmark - GLS - 5 kg (FC4);x;43,29 zł;x;0,00 zł
+KURIERZY - Denmark - GLS - 10 kg (FC4);x;47,29 zł;x;0,00 zł
+KURIERZY - Denmark - GLS - 15 kg (FC4);x;58,49 zł;x;0,00 zł
+KURIERZY - Denmark - GLS - 20 kg (FC4);x;65,79 zł;x;0,00 zł
+KURIERZY - Denmark - GLS - 30 kg (FC4);x;68,99 zł;x;0,00 zł
+KURIERZY - Estonia - GLS - 1 kg (FC4);x;47,99 zł;x;0,00 zł
+KURIERZY - Estonia - GLS - 2 kg (FC4);x;47,99 zł;x;0,00 zł
+KURIERZY - Estonia - GLS - 5 kg (FC4);x;64,59 zł;x;0,00 zł
+KURIERZY - Estonia - GLS - 10 kg (FC4);x;70,69 zł;x;0,00 zł
+KURIERZY - Estonia - GLS - 15 kg (FC4);x;83,59 zł;x;0,00 zł
+KURIERZY - Estonia - GLS - 20 kg (FC4);x;91,19 zł;x;0,00 zł
+KURIERZY - Estonia - GLS - 30 kg (FC4);x;94,89 zł;x;0,00 zł
+KURIERZY - Finland - GLS - 1 kg (FC4);x;51,39 zł;x;0,00 zł
+KURIERZY - Finland - GLS - 2 kg (FC4);x;51,39 zł;x;0,00 zł
+KURIERZY - Finland - GLS - 5 kg (FC4);x;96,09 zł;x;0,00 zł
+KURIERZY - Finland - GLS - 10 kg (FC4);x;103,19 zł;x;0,00 zł
+KURIERZY - Finland - GLS - 15 kg (FC4);x;119,79 zł;x;0,00 zł
+KURIERZY - Finland - GLS - 20 kg (FC4);x;126,29 zł;x;0,00 zł
+KURIERZY - Finland - GLS - 30 kg (FC4);x;129,69 zł;x;0,00 zł
+KURIERZY - France - GLS - 1 kg (FC4);x;31,89 zł;x;0,00 zł
+KURIERZY - France - GLS - 2 kg (FC4);x;31,89 zł;x;0,00 zł
+KURIERZY - France - GLS - 5 kg (FC4);x;62,39 zł;x;0,00 zł
+KURIERZY - France - GLS - 10 kg (FC4);x;66,79 zł;x;0,00 zł
+KURIERZY - France - GLS - 15 kg (FC4);x;78,69 zł;x;0,00 zł
+KURIERZY - France - GLS - 20 kg (FC4);x;83,89 zł;x;0,00 zł
+KURIERZY - France - GLS - 30 kg (FC4);x;86,19 zł;x;0,00 zł
+KURIERZY - Germany - GLS - 1 kg (FC4);x;19,99 zł;x;0,00 zł
+KURIERZY - Germany - GLS - 2 kg (FC4);x;19,99 zł;x;0,00 zł
+KURIERZY - Germany - GLS - 5 kg (FC4);x;35,59 zł;x;0,00 zł
+KURIERZY - Germany - GLS - 10 kg (FC4);x;39,19 zł;x;0,00 zł
+KURIERZY - Germany - GLS - 15 kg (FC4);x;49,49 zł;x;0,00 zł
+KURIERZY - Germany - GLS - 20 kg (FC4);x;53,49 zł;x;0,00 zł
+KURIERZY - Germany - GLS - 30 kg (FC4);x;57,59 zł;x;0,00 zł
+KURIERZY - Greece - GLS - 1 kg (FC4);x;45,09 zł;x;0,00 zł
+KURIERZY - Greece - GLS - 2 kg (FC4);x;45,09 zł;x;0,00 zł
+KURIERZY - Greece - GLS - 5 kg (FC4);x;120,69 zł;x;0,00 zł
+KURIERZY - Greece - GLS - 10 kg (FC4);x;152,29 zł;x;0,00 zł
+KURIERZY - Greece - GLS - 15 kg (FC4);x;201,49 zł;x;0,00 zł
+KURIERZY - Greece - GLS - 20 kg (FC4);x;260,79 zł;x;0,00 zł
+KURIERZY - Greece - GLS - 30 kg (FC4);x;290,39 zł;x;0,00 zł
+KURIERZY - Hungary - GLS - 1 kg (FC4);x;37,79 zł;x;0,00 zł
+KURIERZY - Hungary - GLS - 2 kg (FC4);x;37,79 zł;x;0,00 zł
+KURIERZY - Hungary - GLS - 5 kg (FC4);x;51,59 zł;x;0,00 zł
+KURIERZY - Hungary - GLS - 10 kg (FC4);x;56,09 zł;x;0,00 zł
+KURIERZY - Hungary - GLS - 15 kg (FC4);x;65,69 zł;x;0,00 zł
+KURIERZY - Hungary - GLS - 20 kg (FC4);x;70,69 zł;x;0,00 zł
+KURIERZY - Hungary - GLS - 30 kg (FC4);x;73,09 zł;x;0,00 zł
+KURIERZY - Ireland - GLS - 1 kg (FC4);x;77,79 zł;x;0,00 zł
+KURIERZY - Ireland - GLS - 2 kg (FC4);x;77,79 zł;x;0,00 zł
+KURIERZY - Ireland - GLS - 5 kg (FC4);x;116,99 zł;x;0,00 zł
+KURIERZY - Ireland - GLS - 10 kg (FC4);x;123,79 zł;x;0,00 zł
+KURIERZY - Ireland - GLS - 15 kg (FC4);x;143,59 zł;x;0,00 zł
+KURIERZY - Ireland - GLS - 20 kg (FC4);x;149,19 zł;x;0,00 zł
+KURIERZY - Ireland - GLS - 30 kg (FC4);x;151,59 zł;x;0,00 zł
+KURIERZY - Italy - GLS - 1 kg (FC4);x;34,39 zł;x;0,00 zł
+KURIERZY - Italy - GLS - 2 kg (FC4);x;34,39 zł;x;0,00 zł
+KURIERZY - Italy - GLS - 5 kg (FC4);x;63,19 zł;x;0,00 zł
+KURIERZY - Italy - GLS - 10 kg (FC4);x;67,59 zł;x;0,00 zł
+KURIERZY - Italy - GLS - 15 kg (FC4);x;79,59 zł;x;0,00 zł
+KURIERZY - Italy - GLS - 20 kg (FC4);x;84,59 zł;x;0,00 zł
+KURIERZY - Italy - GLS - 30 kg (FC4);x;86,89 zł;x;0,00 zł
+KURIERZY - Latvia - GLS - 1 kg (FC4);x;43,09 zł;x;0,00 zł
+KURIERZY - Latvia - GLS - 2 kg (FC4);x;43,09 zł;x;0,00 zł
+KURIERZY - Latvia - GLS - 5 kg (FC4);x;57,39 zł;x;0,00 zł
+KURIERZY - Latvia - GLS - 10 kg (FC4);x;61,19 zł;x;0,00 zł
+KURIERZY - Latvia - GLS - 15 kg (FC4);x;70,39 zł;x;0,00 zł
+KURIERZY - Latvia - GLS - 20 kg (FC4);x;74,49 zł;x;0,00 zł
+KURIERZY - Latvia - GLS - 30 kg (FC4);x;77,49 zł;x;0,00 zł
+KURIERZY - Lithuania - GLS - 1 kg (FC4);x;38,99 zł;x;0,00 zł
+KURIERZY - Lithuania - GLS - 2 kg (FC4);x;38,99 zł;x;0,00 zł
+KURIERZY - Lithuania - GLS - 5 kg (FC4);x;47,69 zł;x;0,00 zł
+KURIERZY - Lithuania - GLS - 10 kg (FC4);x;52,59 zł;x;0,00 zł
+KURIERZY - Lithuania - GLS - 15 kg (FC4);x;63,39 zł;x;0,00 zł
+KURIERZY - Lithuania - GLS - 20 kg (FC4);x;68,69 zł;x;0,00 zł
+KURIERZY - Lithuania - GLS - 30 kg (FC4);x;71,09 zł;x;0,00 zł
+KURIERZY - Netherlands - GLS - 1 kg (FC4);x;22,49 zł;x;0,00 zł
+KURIERZY - Netherlands - GLS - 2 kg (FC4);x;22,49 zł;x;0,00 zł
+KURIERZY - Netherlands - GLS - 5 kg (FC4);x;42,79 zł;x;0,00 zł
+KURIERZY - Netherlands - GLS - 10 kg (FC4);x;46,79 zł;x;0,00 zł
+KURIERZY - Netherlands - GLS - 15 kg (FC4);x;57,99 zł;x;0,00 zł
+KURIERZY - Netherlands - GLS - 20 kg (FC4);x;65,39 zł;x;0,00 zł
+KURIERZY - Netherlands - GLS - 30 kg (FC4);x;68,49 zł;x;0,00 zł
+KURIERZY - Portugal - GLS - 1 kg (FC4);x;43,99 zł;x;0,00 zł
+KURIERZY - Portugal - GLS - 2 kg (FC4);x;43,99 zł;x;0,00 zł
+KURIERZY - Portugal - GLS - 5 kg (FC4);x;100,99 zł;x;0,00 zł
+KURIERZY - Portugal - GLS - 10 kg (FC4);x;109,99 zł;x;0,00 zł
+KURIERZY - Portugal - GLS - 15 kg (FC4);x;129,29 zł;x;0,00 zł
+KURIERZY - Portugal - GLS - 20 kg (FC4);x;139,49 zł;x;0,00 zł
+KURIERZY - Portugal - GLS - 30 kg (FC4);x;139,49 zł;x;0,00 zł
+KURIERZY - Romania - GLS - 1 kg (FC4);x;49,29 zł;x;0,00 zł
+KURIERZY - Romania - GLS - 2 kg (FC4);x;49,29 zł;x;0,00 zł
+KURIERZY - Romania - GLS - 5 kg (FC4);x;77,19 zł;x;0,00 zł
+KURIERZY - Romania - GLS - 10 kg (FC4);x;83,79 zł;x;0,00 zł
+KURIERZY - Romania - GLS - 15 kg (FC4);x;98,19 zł;x;0,00 zł
+KURIERZY - Romania - GLS - 20 kg (FC4);x;106,29 zł;x;0,00 zł
+KURIERZY - Romania - GLS - 30 kg (FC4);x;106,29 zł;x;0,00 zł
+KURIERZY - Slovakia - GLS - 1 kg (FC4);x;28,09 zł;x;0,00 zł
+KURIERZY - Slovakia - GLS - 2 kg (FC4);x;28,09 zł;x;0,00 zł
+KURIERZY - Slovakia - GLS - 5 kg (FC4);x;41,19 zł;x;0,00 zł
+KURIERZY - Slovakia - GLS - 10 kg (FC4);x;46,39 zł;x;0,00 zł
+KURIERZY - Slovakia - GLS - 15 kg (FC4);x;59,09 zł;x;0,00 zł
+KURIERZY - Slovakia - GLS - 20 kg (FC4);x;64,79 zł;x;0,00 zł
+KURIERZY - Slovakia - GLS - 30 kg (FC4);x;64,79 zł;x;0,00 zł
+KURIERZY - Slovenia - GLS - 1 kg (FC4);x;38,39 zł;x;0,00 zł
+KURIERZY - Slovenia - GLS - 2 kg (FC4);x;38,39 zł;x;0,00 zł
+KURIERZY - Slovenia - GLS - 5 kg (FC4);x;65,39 zł;x;0,00 zł
+KURIERZY - Slovenia - GLS - 10 kg (FC4);x;71,59 zł;x;0,00 zł
+KURIERZY - Slovenia - GLS - 15 kg (FC4);x;85,59 zł;x;0,00 zł
+KURIERZY - Slovenia - GLS - 20 kg (FC4);x;94,49 zł;x;0,00 zł
+KURIERZY - Slovenia - GLS - 30 kg (FC4);x;100,89 zł;x;0,00 zł
+KURIERZY - Spain - GLS - 1 kg (FC4);x;41,29 zł;x;0,00 zł
+KURIERZY - Spain - GLS - 2 kg (FC4);x;41,29 zł;x;0,00 zł
+KURIERZY - Spain - GLS - 5 kg (FC4);x;94,89 zł;x;0,00 zł
+KURIERZY - Spain - GLS - 10 kg (FC4);x;101,59 zł;x;0,00 zł
+KURIERZY - Spain - GLS - 15 kg (FC4);x;117,49 zł;x;0,00 zł
+KURIERZY - Spain - GLS - 20 kg (FC4);x;123,09 zł;x;0,00 zł
+KURIERZY - Spain - GLS - 30 kg (FC4);x;125,69 zł;x;0,00 zł
+KURIERZY - Sweden - GLS - 1 kg (FC4);x;35,59 zł;x;0,00 zł
+KURIERZY - Sweden - GLS - 2 kg (FC4);x;35,59 zł;x;0,00 zł
+KURIERZY - Sweden - GLS - 5 kg (FC4);x;66,39 zł;x;0,00 zł
+KURIERZY - Sweden - GLS - 10 kg (FC4);x;71,39 zł;x;0,00 zł
+KURIERZY - Sweden - GLS - 15 kg (FC4);x;85,49 zł;x;0,00 zł
+KURIERZY - Sweden - GLS - 20 kg (FC4);x;92,69 zł;x;0,00 zł
+KURIERZY - Sweden - GLS - 30 kg (FC4);x;95,59 zł;x;0,00 zł
+KURIERZY - Austria - DHL Parcel - 1 kg (FC3, FC4);x;47,19 zł;x;0,00 zł
+KURIERZY - Austria - DHL Parcel - 2 kg (FC3, FC4);x;53,19 zł;x;0,00 zł
+KURIERZY - Austria - DHL Parcel - 5 kg (FC3, FC4);x;53,19 zł;x;0,00 zł
+KURIERZY - Austria - DHL Parcel - 10 kg (FC3, FC4);x;64,89 zł;x;0,00 zł
+KURIERZY - Austria - DHL Parcel - 15 kg (FC3, FC4);x;117,99 zł;x;0,00 zł
+KURIERZY - Austria - DHL Parcel - 20 kg (FC3, FC4);x;117,99 zł;x;0,00 zł
+KURIERZY - Belgium - DHL Parcel - 1 kg (FC3, FC4);x;47,19 zł;x;0,00 zł
+KURIERZY - Belgium - DHL Parcel - 2 kg (FC3, FC4);x;53,19 zł;x;0,00 zł
+KURIERZY - Belgium - DHL Parcel - 5 kg (FC3, FC4);x;53,19 zł;x;0,00 zł
+KURIERZY - Belgium - DHL Parcel - 10 kg (FC3, FC4);x;64,89 zł;x;0,00 zł
+KURIERZY - Belgium - DHL Parcel - 15 kg (FC3, FC4);x;112,89 zł;x;0,00 zł
+KURIERZY - Belgium - DHL Parcel - 20 kg (FC3, FC4);x;112,89 zł;x;0,00 zł
+KURIERZY - Bułgaria - DHL Parcel - 1 kg (FC3, FC4);x;73,59 zł;x;0,00 zł
+KURIERZY - Bułgaria - DHL Parcel - 2 kg (FC3, FC4);x;80,79 zł;x;0,00 zł
+KURIERZY - Bułgaria - DHL Parcel - 5 kg (FC3, FC4);x;80,79 zł;x;0,00 zł
+KURIERZY - Bułgaria - DHL Parcel - 10 kg (FC3, FC4);x;93,89 zł;x;0,00 zł
+KURIERZY - Bułgaria - DHL Parcel - 15 kg (FC3, FC4);x;158,49 zł;x;0,00 zł
+KURIERZY - Bułgaria - DHL Parcel - 20 kg (FC3, FC4);x;158,49 zł;x;0,00 zł
+KURIERZY - Croatia - DHL Parcel - 1 kg (FC3, FC4);x;62,29 zł;x;0,00 zł
+KURIERZY - Croatia - DHL Parcel - 2 kg (FC3, FC4);x;68,89 zł;x;0,00 zł
+KURIERZY - Croatia - DHL Parcel - 5 kg (FC3, FC4);x;68,89 zł;x;0,00 zł
+KURIERZY - Croatia - DHL Parcel - 10 kg (FC3, FC4);x;82,79 zł;x;0,00 zł
+KURIERZY - Croatia - DHL Parcel - 15 kg (FC3, FC4);x;126,29 zł;x;0,00 zł
+KURIERZY - Croatia - DHL Parcel - 20 kg (FC3, FC4);x;126,29 zł;x;0,00 zł
+KURIERZY - Cyprus - DHL Parcel - 1 kg (FC3, FC4);x;95,09 zł;x;0,00 zł
+KURIERZY - Cyprus - DHL Parcel - 2 kg (FC3, FC4);x;134,69 zł;x;0,00 zł
+KURIERZY - Cyprus - DHL Parcel - 5 kg (FC3, FC4);x;134,69 zł;x;0,00 zł
+KURIERZY - Cyprus - DHL Parcel - 10 kg (FC3, FC4);x;193,19 zł;x;0,00 zł
+KURIERZY - Cyprus - DHL Parcel - 15 kg (FC3, FC4);x;280,39 zł;x;0,00 zł
+KURIERZY - Cyprus - DHL Parcel - 20 kg (FC3, FC4);x;280,39 zł;x;0,00 zł
+KURIERZY - Czech Republic - DHL Parcel - 1 kg (FC3, FC4);x;37,79 zł;x;0,00 zł
+KURIERZY - Czech Republic - DHL Parcel - 2 kg (FC3, FC4);x;43,39 zł;x;0,00 zł
+KURIERZY - Czech Republic - DHL Parcel - 5 kg (FC3, FC4);x;43,39 zł;x;0,00 zł
+KURIERZY - Czech Republic - DHL Parcel - 10 kg (FC3, FC4);x;53,69 zł;x;0,00 zł
+KURIERZY - Czech Republic - DHL Parcel - 15 kg (FC3, FC4);x;99,39 zł;x;0,00 zł
+KURIERZY - Czech Republic - DHL Parcel - 20 kg (FC3, FC4);x;99,39 zł;x;0,00 zł
+KURIERZY - Denmark - DHL Parcel - 1 kg (FC3, FC4);x;62,29 zł;x;0,00 zł
+KURIERZY - Denmark - DHL Parcel - 2 kg (FC3, FC4);x;68,89 zł;x;0,00 zł
+KURIERZY - Denmark - DHL Parcel - 5 kg (FC3, FC4);x;68,89 zł;x;0,00 zł
+KURIERZY - Denmark - DHL Parcel - 10 kg (FC3, FC4);x;82,79 zł;x;0,00 zł
+KURIERZY - Denmark - DHL Parcel - 15 kg (FC3, FC4);x;126,29 zł;x;0,00 zł
+KURIERZY - Denmark - DHL Parcel - 20 kg (FC3, FC4);x;126,29 zł;x;0,00 zł
+KURIERZY - Estonia - DHL Parcel - 1 kg (FC3, FC4);x;62,29 zł;x;0,00 zł
+KURIERZY - Estonia - DHL Parcel - 2 kg (FC3, FC4);x;68,89 zł;x;0,00 zł
+KURIERZY - Estonia - DHL Parcel - 5 kg (FC3, FC4);x;68,89 zł;x;0,00 zł
+KURIERZY - Estonia - DHL Parcel - 10 kg (FC3, FC4);x;82,79 zł;x;0,00 zł
+KURIERZY - Estonia - DHL Parcel - 15 kg (FC3, FC4);x;126,29 zł;x;0,00 zł
+KURIERZY - Estonia - DHL Parcel - 20 kg (FC3, FC4);x;126,29 zł;x;0,00 zł
+KURIERZY - Finland - DHL Parcel - 1 kg (FC3, FC4);x;62,29 zł;x;0,00 zł
+KURIERZY - Finland - DHL Parcel - 2 kg (FC3, FC4);x;68,89 zł;x;0,00 zł
+KURIERZY - Finland - DHL Parcel - 5 kg (FC3, FC4);x;68,89 zł;x;0,00 zł
+KURIERZY - Finland - DHL Parcel - 10 kg (FC3, FC4);x;82,79 zł;x;0,00 zł
+KURIERZY - Finland - DHL Parcel - 15 kg (FC3, FC4);x;126,29 zł;x;0,00 zł
+KURIERZY - Finland - DHL Parcel - 20 kg (FC3, FC4);x;126,29 zł;x;0,00 zł
+KURIERZY - France - DHL Parcel - 1 kg (FC3, FC4);x;67,79 zł;x;0,00 zł
+KURIERZY - France - DHL Parcel - 2 kg (FC3, FC4);x;74,59 zł;x;0,00 zł
+KURIERZY - France - DHL Parcel - 5 kg (FC3, FC4);x;74,59 zł;x;0,00 zł
+KURIERZY - France - DHL Parcel - 10 kg (FC3, FC4);x;92,09 zł;x;0,00 zł
+KURIERZY - France - DHL Parcel - 15 kg (FC3, FC4);x;144,89 zł;x;0,00 zł
+KURIERZY - France - DHL Parcel - 20 kg (FC3, FC4);x;144,89 zł;x;0,00 zł
+KURIERZY - Greece - DHL Parcel - 1 kg (FC3, FC4);x;49,49 zł;x;0,00 zł
+KURIERZY - Greece - DHL Parcel - 2 kg (FC3, FC4);x;66,69 zł;x;0,00 zł
+KURIERZY - Greece - DHL Parcel - 5 kg (FC3, FC4);x;66,69 zł;x;0,00 zł
+KURIERZY - Greece - DHL Parcel - 10 kg (FC3, FC4);x;96,49 zł;x;0,00 zł
+KURIERZY - Greece - DHL Parcel - 15 kg (FC3, FC4);x;137,99 zł;x;0,00 zł
+KURIERZY - Greece - DHL Parcel - 20 kg (FC3, FC4);x;137,99 zł;x;0,00 zł
+KURIERZY - Spain - DHL Parcel - 1 kg (FC3, FC4);x;73,59 zł;x;0,00 zł
+KURIERZY - Spain - DHL Parcel - 2 kg (FC3, FC4);x;80,79 zł;x;0,00 zł
+KURIERZY - Spain - DHL Parcel - 5 kg (FC3, FC4);x;80,79 zł;x;0,00 zł
+KURIERZY - Spain - DHL Parcel - 10 kg (FC3, FC4);x;93,89 zł;x;0,00 zł
+KURIERZY - Spain - DHL Parcel - 15 kg (FC3, FC4);x;158,49 zł;x;0,00 zł
+KURIERZY - Spain - DHL Parcel - 20 kg (FC3, FC4);x;158,49 zł;x;0,00 zł
+KURIERZY - Netherlands - DHL Parcel - 1 kg (FC3, FC4);x;47,19 zł;x;0,00 zł
+KURIERZY - Netherlands - DHL Parcel - 2 kg (FC3, FC4);x;53,19 zł;x;0,00 zł
+KURIERZY - Netherlands - DHL Parcel - 5 kg (FC3, FC4);x;53,19 zł;x;0,00 zł
+KURIERZY - Netherlands - DHL Parcel - 10 kg (FC3, FC4);x;64,89 zł;x;0,00 zł
+KURIERZY - Netherlands - DHL Parcel - 15 kg (FC3, FC4);x;112,89 zł;x;0,00 zł
+KURIERZY - Netherlands - DHL Parcel - 20 kg (FC3, FC4);x;112,89 zł;x;0,00 zł
+KURIERZY - Ireland - DHL Parcel - 1 kg (FC3, FC4);x;73,59 zł;x;0,00 zł
+KURIERZY - Ireland - DHL Parcel - 2 kg (FC3, FC4);x;80,79 zł;x;0,00 zł
+KURIERZY - Ireland - DHL Parcel - 5 kg (FC3, FC4);x;80,79 zł;x;0,00 zł
+KURIERZY - Ireland - DHL Parcel - 10 kg (FC3, FC4);x;93,89 zł;x;0,00 zł
+KURIERZY - Ireland - DHL Parcel - 15 kg (FC3, FC4);x;158,49 zł;x;0,00 zł
+KURIERZY - Ireland - DHL Parcel - 20 kg (FC3, FC4);x;158,49 zł;x;0,00 zł
+KURIERZY - Lithuania - DHL Parcel - 1 kg (FC3, FC4);x;47,19 zł;x;0,00 zł
+KURIERZY - Lithuania - DHL Parcel - 2 kg (FC3, FC4);x;53,19 zł;x;0,00 zł
+KURIERZY - Lithuania - DHL Parcel - 5 kg (FC3, FC4);x;53,19 zł;x;0,00 zł
+KURIERZY - Lithuania - DHL Parcel - 10 kg (FC3, FC4);x;64,89 zł;x;0,00 zł
+KURIERZY - Lithuania - DHL Parcel - 15 kg (FC3, FC4);x;112,89 zł;x;0,00 zł
+KURIERZY - Lithuania - DHL Parcel - 20 kg (FC3, FC4);x;112,89 zł;x;0,00 zł
+KURIERZY - Latvia - DHL Parcel - 1 kg (FC3, FC4);x;62,29 zł;x;0,00 zł
+KURIERZY - Latvia - DHL Parcel - 2 kg (FC3, FC4);x;68,89 zł;x;0,00 zł
+KURIERZY - Latvia - DHL Parcel - 5 kg (FC3, FC4);x;68,89 zł;x;0,00 zł
+KURIERZY - Latvia - DHL Parcel - 10 kg (FC3, FC4);x;82,79 zł;x;0,00 zł
+KURIERZY - Latvia - DHL Parcel - 15 kg (FC3, FC4);x;126,29 zł;x;0,00 zł
+KURIERZY - Latvia - DHL Parcel - 20 kg (FC3, FC4);x;126,29 zł;x;0,00 zł
+KURIERZY - Malta - DHL Parcel - 1 kg (FC3, FC4);x;508,19 zł;x;0,00 zł
+KURIERZY - Malta - DHL Parcel - 2 kg (FC3, FC4);x;549,19 zł;x;0,00 zł
+KURIERZY - Malta - DHL Parcel - 5 kg (FC3, FC4);x;549,19 zł;x;0,00 zł
+KURIERZY - Malta - DHL Parcel - 10 kg (FC3, FC4);x;659,39 zł;x;0,00 zł
+KURIERZY - Malta - DHL Parcel - 15 kg (FC3, FC4);x;844,29 zł;x;0,00 zł
+KURIERZY - Malta - DHL Parcel - 20 kg (FC3, FC4);x;844,29 zł;x;0,00 zł
+KURIERZY - Germany - DHL Parcel - 1 kg (FC3, FC4);x;37,79 zł;x;0,00 zł
+KURIERZY - Germany - DHL Parcel - 2 kg (FC3, FC4);x;43,39 zł;x;0,00 zł
+KURIERZY - Germany - DHL Parcel - 5 kg (FC3, FC4);x;43,39 zł;x;0,00 zł
+KURIERZY - Germany - DHL Parcel - 10 kg (FC3, FC4);x;53,69 zł;x;0,00 zł
+KURIERZY - Germany - DHL Parcel - 15 kg (FC3, FC4);x;99,39 zł;x;0,00 zł
+KURIERZY - Germany - DHL Parcel - 20 kg (FC3, FC4);x;99,39 zł;x;0,00 zł
+KURIERZY - Portugal - DHL Parcel - 1 kg (FC3, FC4);x;73,59 zł;x;0,00 zł
+KURIERZY - Portugal - DHL Parcel - 2 kg (FC3, FC4);x;80,79 zł;x;0,00 zł
+KURIERZY - Portugal - DHL Parcel - 5 kg (FC3, FC4);x;80,79 zł;x;0,00 zł
+KURIERZY - Portugal - DHL Parcel - 10 kg (FC3, FC4);x;93,89 zł;x;0,00 zł
+KURIERZY - Portugal - DHL Parcel - 15 kg (FC3, FC4);x;158,49 zł;x;0,00 zł
+KURIERZY - Portugal - DHL Parcel - 20 kg (FC3, FC4);x;158,49 zł;x;0,00 zł
+KURIERZY - Romania - DHL Parcel - 1 kg (FC3, FC4);x;73,59 zł;x;0,00 zł
+KURIERZY - Romania - DHL Parcel - 2 kg (FC3, FC4);x;80,79 zł;x;0,00 zł
+KURIERZY - Romania - DHL Parcel - 5 kg (FC3, FC4);x;80,79 zł;x;0,00 zł
+KURIERZY - Romania - DHL Parcel - 10 kg (FC3, FC4);x;93,89 zł;x;0,00 zł
+KURIERZY - Romania - DHL Parcel - 15 kg (FC3, FC4);x;158,49 zł;x;0,00 zł
+KURIERZY - Romania - DHL Parcel - 20 kg (FC3, FC4);x;158,49 zł;x;0,00 zł
+KURIERZY - Slovakia - DHL Parcel - 1 kg (FC3, FC4);x;37,79 zł;x;0,00 zł
+KURIERZY - Slovakia - DHL Parcel - 2 kg (FC3, FC4);x;43,39 zł;x;0,00 zł
+KURIERZY - Slovakia - DHL Parcel - 5 kg (FC3, FC4);x;43,39 zł;x;0,00 zł
+KURIERZY - Slovakia - DHL Parcel - 10 kg (FC3, FC4);x;53,69 zł;x;0,00 zł
+KURIERZY - Slovakia - DHL Parcel - 15 kg (FC3, FC4);x;99,39 zł;x;0,00 zł
+KURIERZY - Slovakia - DHL Parcel - 20 kg (FC3, FC4);x;99,39 zł;x;0,00 zł
+KURIERZY - Slovenia - DHL Parcel - 1 kg (FC3, FC4);x;47,19 zł;x;0,00 zł
+KURIERZY - Slovenia - DHL Parcel - 2 kg (FC3, FC4);x;53,19 zł;x;0,00 zł
+KURIERZY - Slovenia - DHL Parcel - 5 kg (FC3, FC4);x;53,19 zł;x;0,00 zł
+KURIERZY - Slovenia - DHL Parcel - 10 kg (FC3, FC4);x;64,89 zł;x;0,00 zł
+KURIERZY - Slovenia - DHL Parcel - 15 kg (FC3, FC4);x;112,89 zł;x;0,00 zł
+KURIERZY - Slovenia - DHL Parcel - 20 kg (FC3, FC4);x;112,89 zł;x;0,00 zł
+KURIERZY - Sweden - DHL Parcel - 1 kg (FC3, FC4);x;62,29 zł;x;0,00 zł
+KURIERZY - Sweden - DHL Parcel - 2 kg (FC3, FC4);x;68,89 zł;x;0,00 zł
+KURIERZY - Sweden - DHL Parcel - 5 kg (FC3, FC4);x;68,89 zł;x;0,00 zł
+KURIERZY - Sweden - DHL Parcel - 10 kg (FC3, FC4);x;82,79 zł;x;0,00 zł
+KURIERZY - Sweden - DHL Parcel - 15 kg (FC3, FC4);x;126,29 zł;x;0,00 zł
+KURIERZY - Sweden - DHL Parcel - 20 kg (FC3, FC4);x;126,29 zł;x;0,00 zł
+KURIERZY - Hungary - DHL Parcel - 1 kg (FC3, FC4);x;47,19 zł;x;0,00 zł
+KURIERZY - Hungary - DHL Parcel - 2 kg (FC3, FC4);x;53,19 zł;x;0,00 zł
+KURIERZY - Hungary - DHL Parcel - 5 kg (FC3, FC4);x;53,19 zł;x;0,00 zł
+KURIERZY - Hungary - DHL Parcel - 10 kg (FC3, FC4);x;64,89 zł;x;0,00 zł
+KURIERZY - Hungary - DHL Parcel - 15 kg (FC3, FC4);x;112,89 zł;x;0,00 zł
+KURIERZY - Hungary - DHL Parcel - 20 kg (FC3, FC4);x;112,89 zł;x;0,00 zł
+KURIERZY - United Kingdom - DHL Parcel - 1 kg (FC3, FC4);x;51,39 zł;x;0,00 zł
+KURIERZY - United Kingdom - DHL Parcel - 2 kg (FC3, FC4);x;63,89 zł;x;0,00 zł
+KURIERZY - United Kingdom - DHL Parcel - 5 kg (FC3, FC4);x;63,89 zł;x;0,00 zł
+KURIERZY - United Kingdom - DHL Parcel - 10 kg (FC3, FC4);x;88,89 zł;x;0,00 zł
+KURIERZY - United Kingdom - DHL Parcel - 15 kg (FC3, FC4);x;130,49 zł;x;0,00 zł
+KURIERZY - United Kingdom - DHL Parcel - 20 kg (FC3, FC4);x;130,49 zł;x;0,00 zł
+KURIERZY - Italy - DHL Parcel - 1 kg (FC3, FC4);x;51,39 zł;x;0,00 zł
+KURIERZY - Italy - DHL Parcel - 2 kg (FC3, FC4);x;63,89 zł;x;0,00 zł
+KURIERZY - Italy - DHL Parcel - 5 kg (FC3, FC4);x;63,89 zł;x;0,00 zł
+KURIERZY - Italy - DHL Parcel - 10 kg (FC3, FC4);x;88,89 zł;x;0,00 zł
+KURIERZY - Italy - DHL Parcel - 15 kg (FC3, FC4);x;130,49 zł;x;0,00 zł
+KURIERZY - Italy - DHL Parcel - 20 kg (FC3, FC4);x;130,49 zł;x;0,00 zł
+KURIERZY - STREFA 1 - DHL Express LOTNIK - 1 kg (FC3, FC4);x;80,09 zł;x;0,00 zł
+KURIERZY - STREFA 1 - DHL Express LOTNIK - 2 kg (FC3, FC4);x;101,19 zł;x;0,00 zł
+KURIERZY - STREFA 1 - DHL Express LOTNIK - 5 kg (FC3, FC4);x;126,99 zł;x;0,00 zł
+KURIERZY - STREFA 1 - DHL Express LOTNIK - 10 kg (FC3, FC4);x;205,09 zł;x;0,00 zł
+KURIERZY - STREFA 1 - DHL Express LOTNIK - 15 kg (FC3, FC4);x;359,49 zł;x;0,00 zł
+KURIERZY - STREFA 1 - DHL Express LOTNIK - 20 kg (FC3, FC4);x;489,19 zł;x;0,00 zł
+KURIERZY - STREFA 2 - DHL Express LOTNIK - 1 kg (FC3, FC4);x;97,69 zł;x;0,00 zł
+KURIERZY - STREFA 2 - DHL Express LOTNIK - 2 kg (FC3, FC4);x;121,29 zł;x;0,00 zł
+KURIERZY - STREFA 2 - DHL Express LOTNIK - 5 kg (FC3, FC4);x;152,79 zł;x;0,00 zł
+KURIERZY - STREFA 2 - DHL Express LOTNIK - 10 kg (FC3, FC4);x;237,69 zł;x;0,00 zł
+KURIERZY - STREFA 2 - DHL Express LOTNIK - 15 kg (FC3, FC4);x;417,99 zł;x;0,00 zł
+KURIERZY - STREFA 2 - DHL Express LOTNIK - 20 kg (FC3, FC4);x;569,39 zł;x;0,00 zł
+KURIERZY - STREFA 3 - DHL Express LOTNIK - 1 kg (FC3, FC4);x;135,49 zł;x;0,00 zł
+KURIERZY - STREFA 3 - DHL Express LOTNIK - 2 kg (FC3, FC4);x;166,39 zł;x;0,00 zł
+KURIERZY - STREFA 3 - DHL Express LOTNIK - 5 kg (FC3, FC4);x;209,99 zł;x;0,00 zł
+KURIERZY - STREFA 3 - DHL Express LOTNIK - 10 kg (FC3, FC4);x;315,89 zł;x;0,00 zł
+KURIERZY - STREFA 3 - DHL Express LOTNIK - 15 kg (FC3, FC4);x;561,29 zł;x;0,00 zł
+KURIERZY - STREFA 3 - DHL Express LOTNIK - 20 kg (FC3, FC4);x;768,59 zł;x;0,00 zł
+KURIERZY - STREFA 4 - DHL Express LOTNIK - 1 kg (FC3, FC4);x;142,89 zł;x;0,00 zł
+KURIERZY - STREFA 4 - DHL Express LOTNIK - 2 kg (FC3, FC4);x;191,69 zł;x;0,00 zł
+KURIERZY - STREFA 4 - DHL Express LOTNIK - 5 kg (FC3, FC4);x;237,19 zł;x;0,00 zł
+KURIERZY - STREFA 4 - DHL Express LOTNIK - 10 kg (FC3, FC4);x;398,29 zł;x;0,00 zł
+KURIERZY - STREFA 4 - DHL Express LOTNIK - 15 kg (FC3, FC4);x;692,79 zł;x;0,00 zł
+KURIERZY - STREFA 4 - DHL Express LOTNIK - 20 kg (FC3, FC4);x;938,99 zł;x;0,00 zł
+KURIERZY - STREFA 5 - DHL Express LOTNIK - 1 kg (FC3, FC4);x;211,59 zł;x;0,00 zł
+KURIERZY - STREFA 5 - DHL Express LOTNIK - 2 kg (FC3, FC4);x;294,09 zł;x;0,00 zł
+KURIERZY - STREFA 5 - DHL Express LOTNIK - 5 kg (FC3, FC4);x;395,59 zł;x;0,00 zł
+KURIERZY - STREFA 5 - DHL Express LOTNIK - 10 kg (FC3, FC4);x;771,29 zł;x;0,00 zł
+KURIERZY - STREFA 5 - DHL Express LOTNIK - 15 kg (FC3, FC4);x;1 331,79 zł;x;0,00 zł
+KURIERZY - STREFA 5 - DHL Express LOTNIK - 20 kg (FC3, FC4);x;1 799,09 zł;x;0,00 zł
+KURIERZY - STREFA 6 - DHL Express LOTNIK - 1 kg (FC3, FC4);x;111,29 zł;x;0,00 zł
+KURIERZY - STREFA 6 - DHL Express LOTNIK - 2 kg (FC3, FC4);x;140,39 zł;x;0,00 zł
+KURIERZY - STREFA 6 - DHL Express LOTNIK - 5 kg (FC3, FC4);x;180,89 zł;x;0,00 zł
+KURIERZY - STREFA 6 - DHL Express LOTNIK - 10 kg (FC3, FC4);x;291,29 zł;x;0,00 zł
+KURIERZY - STREFA 6 - DHL Express LOTNIK - 15 kg (FC3, FC4);x;513,69 zł;x;0,00 zł
+KURIERZY - STREFA 6 - DHL Express LOTNIK - 20 kg (FC3, FC4);x;700,89 zł;x;0,00 zł

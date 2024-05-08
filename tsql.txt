@@ -1,0 +1,13 @@
+Create table [BundleImportConfig] (
+id int identity not null,
+SheetName varchar(255) not null,
+ValidFromColumnName varchar(255) null,
+ValidFromRowIndex varchar(255) null,
+DataStartsRowIndex  varchar(255) null,
+DataEndsRowIndex  varchar(255) null,
+CountryColumnName varchar(255) null,
+TypeColumnName varchar(255) null,
+ServiceColumnName varchar(255) null,
+PriceColumnName varchar(255) null,
+AutoConfig int DEFAULT 1
+);

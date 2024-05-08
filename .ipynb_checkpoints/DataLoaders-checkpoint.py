@@ -5,6 +5,12 @@ from datetime import datetime
 from streamlit_gsheets import GSheetsConnection
 import time
 
+def replace_unnamed(val):
+    if isinstance(val, str) and 'Unnamed' in val:
+        return None
+    else:
+        return val
+
 # Function to save data to JSON
 def save_data_json(data, filename=r'Bundle\feedback.json'):
     try:
@@ -23,12 +29,37 @@ def save_data_json(data, filename=r'Bundle\feedback.json'):
             json.dump([data], file, indent=4)
           
 
+def read_all_data_gsheet(worksheet_name):
+    conn = st.connection("gsheets", type =GSheetsConnection )
+    data = conn.read(worksheet=worksheet_name, ttl=100)
 
-      
+    # Adjust DataFrame to include the original headers as the first row of data
+    # 1. Create a new DataFrame with the headers as a row
+    header_row = pd.DataFrame([data.columns], columns=data.columns)
+
+    # 2. Append the original data under the new header row
+    data = pd.concat([header_row, data], ignore_index=True)
+
+    # 3. Reset the headers to default integers (optional if you want to rename them later)
+    data.columns = range(1,len(data.columns)+1,1)
+    data = data.applymap(replace_unnamed)
+    return data
+
+
+def get_all_sheet_names(spreadsheet_id):
+  
+    data = {
+    'worksheet': ['Packeta', 'EUROHERMES - DHL PAKET', 'GLS']  # float64 with None
+    }
+    sheet_names = pd.DataFrame(data)
+    return sheet_names
+
+
+
         
 def read_data_gsheet(worksheet_name):
     conn = st.connection("gsheets", type =GSheetsConnection )
-    data = conn.read(worksheet=worksheet_name, ttl=1)
+    data = conn.read(worksheet=worksheet_name, ttl=100)
     # Filter out columns whose names start with 'Unnamed'
     filtered_data = data.loc[:, ~data.columns.str.contains('^Unnamed')]
     return filtered_data
